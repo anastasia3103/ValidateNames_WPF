@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c9hs1HlyAuO1Z8ivy3PYTPDsy8TgOMKJiw/0Da+2/UA=",
+  "Source": "ValidateNames_API",
+  "BasePath": "_content/ValidateNames_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
